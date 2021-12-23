@@ -1,5 +1,5 @@
 # cors-secure
 A React APP to make verify CORS Permissive Policy.
 
-##Usage
+## Usage
 Just clone the repository and open the index.html file.
